@@ -10,7 +10,7 @@ cargo 1.65.0(4bc8f24d3 2022-10-20)
 去”作为“最近的将来”的近似，因此，LRU算法就是将最近最久未使用的页面予以淘汰。
 
 # 目录说明
-目录中共有三个文件夹<.vscode> <src> <target>,其中<.vscode>是Vscode的配置文件，<src>内仅有一个<main.rs>文件保存了全部的代码，<target>内包含cargo自动编译生成的可执行文件。主目录下的<Cargo.lock> <Cargo.toml>为Cargo的配置文件。
+目录中共有三个文件夹[.vscode] <src> <target>,其中<.vscode>是Vscode的配置文件，<src>内仅有一个<main.rs>文件保存了全部的代码，<target>内包含cargo自动编译生成的可执行文件。主目录下的<Cargo.lock> <Cargo.toml>为Cargo的配置文件。
   
   # 使用说明
   1.配置对应环境后，将文件下载至本地，通过命令行进入文件所在目录。
